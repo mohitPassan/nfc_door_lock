@@ -1,0 +1,47 @@
+# --- STM32CubeIDE / Eclipse ---
+/Debug/
+/Release/
+/build/
+/*.ioc
+/.settings/
+/.metadata/
+/.cproject
+.project
+*.launch
+
+# --- Build outputs ---
+*.elf
+*.hex
+*.bin
+*.map
+*.list
+*.su
+*.o
+*.d
+*.axf
+
+# --- Generated files ---
+*.gch
+*.pch
+
+# --- Backup files ---
+*.bak
+*.log
+*.swp
+*.swo
+
+# --- System files ---
+.DS_Store
+Thumbs.db
+
+# --- IDE and editor specific ---
+.vscode/
+.idea/
+*.tmp
+*~
+
+# --- Generated startup code and libs ---
+/Drivers/
+/Middlewares/
+/USB_*
+/startup/
