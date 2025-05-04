@@ -13,5 +13,5 @@ Replace a metal key with an NFC card. An STM32 microcontroller reads the card th
 
 ## Circuit Diagram
 <p align="center">
-  <img src="docs/circuit-diagram-decoupled.svg" alt="NFC Door Lock schematic" width="500">
+  <img src="docs/circuit-diagram-decoupled.svg" alt="NFC Door Lock schematic">
 </p>
